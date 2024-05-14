@@ -1,18 +1,29 @@
-## Getting Started
+# 👨‍💻 Primeiro Contato com Java
+Este repositório contém um programa simples em Java que demonstra o uso de métodos para manipulação de strings. O código fonte está no arquivo Metodo.java.
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+##
+###  O que eu aprendi 🛠
 
-## Folder Structure
+O programa consiste em uma classe chamada Metodo com um método main que é o ponto de entrada da aplicação. Dentro do método main, são definidas duas variáveis do tipo String para armazenar um primeiro e um segundo nome.
 
-The workspace contains two folders by default, where:
+Em seguida, é chamado o método nomeCompleto passando os dois nomes como argumentos. Este método concatena os dois nomes e retorna o resultado como uma única string.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+Por fim, o resultado é impresso no console.
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+##
+### 🤓 Como executar:
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+Para executar o programa, você pode seguir estes passos:
 
-## Dependency Management
+  * Certifique-se de ter o JDK (Java Development Kit) instalado em seu sistema.
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+  * Abra um terminal e navegue até o diretório onde o arquivo Metodo.java está localizado.
+  * Compile o arquivo Java usando o comando javac Metodo.java.
+  * Execute o programa compilado usando o comando java Metodo.
+
+Isso imprimirá o nome completo no console.
+
+##
+### 📲 Você pode me encontrar em:
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/douglasgrund)

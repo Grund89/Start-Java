@@ -26,4 +26,4 @@ Isso imprimirá o nome completo no console.
 ##
 ### 📲 Você pode me encontrar em:
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/douglasgrund)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/douglasgrund)
